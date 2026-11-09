@@ -32,3 +32,11 @@ Create a `.env.local` file:
 OPENAI_API_KEY=your_api_key
 OPENAI_MODEL=gpt-4o-mini
 ```
+
+
+
+<img width="1267" height="893" alt="image" src="https://github.com/user-attachments/assets/ad86c6e6-5c86-4777-8ca5-2b9ae5259369" />
+
+<img width="1873" height="892" alt="image" src="https://github.com/user-attachments/assets/3a8c3e59-fb16-425c-852c-9bea9985a2f3" />
+
+
